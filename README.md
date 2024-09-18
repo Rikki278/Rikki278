@@ -1,8 +1,14 @@
-## Hi, I'm Sviatoslav 👋 
+![ban10](https://github.com/user-attachments/assets/aa00f677-891f-4c8d-94f1-714ac00b1f7a)
+------------------------------------------------------------------
 
 💻I'm a **Java Backend Developer** using the **Spring Framework**. My experience spans across multiple areas of backend development, with proficiency in both **SQL** ***(MySql, PostgreSQL)*** and **NoSQL** ***(MongoDB)*** databases. I am also skilled in **Docker** for containerization and deployment. I enjoy leveraging these technologies to build efficient and scalable applications.
 
 ![gitAni](https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=00b9ff&icon_color=ffffff&text_color=00b9ff&bg_color=0d1117" alt="rikki278 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=00b9ff&text_color=00b9ff&bg_color=0d1117" />
+</div>
 
 ### 🧰 Languages and Tools
 

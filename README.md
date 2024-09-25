@@ -6,8 +6,8 @@
 ![gitAni](https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=00b9ff&icon_color=ffffff&text_color=00b9ff&bg_color=0d1117" alt="rikki278 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=00b9ff&text_color=00b9ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=00b9ff&icon_color=ffffff&text_color=00b9ff&theme=transparent" alt="rikki278 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=00b9ff&text_color=00b9ff&bg_color=0d1117&theme=transparent" />
 </div>
 
 ### 🧰 Languages and Tools
@@ -37,19 +37,4 @@ I enjoy coding and video editing, combining creativity with technical proficienc
 
 ## 📬 Get in Touch
 - **LinkedIn:** [Sviatoslav Borovyk](https://www.linkedin.com/in/sviatoslav-borovyk-b51599291/)
-- **GitHub:** [Rikki278](https://github.com/Rikki278)
 
-<!--
-**Rikki278/Rikki278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -4,11 +4,11 @@
 💻I'm a **Java Backend Developer** using the **Spring Framework**. My experience spans across multiple areas of backend development, with proficiency in both **SQL** ***(MySql, PostgreSQL)*** and **NoSQL** ***(MongoDB)*** databases. I am also skilled in **Docker** for containerization and deployment. I enjoy leveraging these technologies to build efficient and scalable applications.
 
 <div align="center">  
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=ec85e7&icon_color=ffffff&text_color=ec85e7&theme=transparent" alt="rikki278 github stats" /> 
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=ec85e7&icon_color=ffffff&text_color=ec85e7&theme=transparent" alt="rikki278 github stats" /> 
   
   <img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" alt="gitAni" width="300"/>
   
-  <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=ec85e7&text_color=ec85e7&theme=transparent" />
+  <img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=ec85e7&text_color=ec85e7&theme=transparent" />
 </div>
 
 ### 🧰 Languages and Tools

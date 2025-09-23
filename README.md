@@ -1,4 +1,5 @@
-![BAnMEP4](https://github.com/user-attachments/assets/83bd6393-b94c-44ca-a1cf-c530a19609e2)
+<img width="2560" height="417" alt="github header" src="https://github.com/user-attachments/assets/2da9f480-aef9-45a7-9a0d-1dbfd8786505" />
+
 ----------------------------------------
 
 💻I'm a **Java Backend Developer** using the **Spring Framework**. My experience spans across multiple areas of backend development, with proficiency in both **SQL** ***(MySql, PostgreSQL)*** and **NoSQL** ***(MongoDB)*** databases. I am also skilled in **Docker** for containerization and deployment. I enjoy leveraging these technologies to build efficient and scalable applications.

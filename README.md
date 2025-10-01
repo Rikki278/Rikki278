@@ -2,7 +2,9 @@
 
 ----------------------------------------
 
-💻I'm a **Java Backend Developer** using the **Spring Framework**. My experience spans across multiple areas of backend development, with proficiency in both **SQL** ***(MySql, PostgreSQL)*** and **NoSQL** ***(MongoDB)*** databases. I am also skilled in **Docker** for containerization and deployment. I enjoy leveraging these technologies to build efficient and scalable applications.
+📱 I’m a **Flutter Developer**, building cross-platform mobile applications with modern UI/UX and clean architecture.  
+💻 With a strong background as a **Java Backend Developer**, I have experience in **Spring Framework**, databases, and scalable system design.  
+📲 Also experienced in **Android (Kotlin)**, combining native and cross-platform expertise. 
 
 <div align="center">  
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=ec85e7&icon_color=ffffff&text_color=ec85e7&theme=transparent" alt="rikki278 github stats" /> 
@@ -14,10 +16,13 @@
 
 ### 🧰 Languages and Tools
 
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -32,7 +37,8 @@
 
 ## 📚 Education
 
-Currently studying **Computer Science** at **Odessa Polytechnic National University**
+🎓 Completed **Bachelor’s in Computer Science** at **Odessa Polytechnic National University**  
+🎓 Currently pursuing **Master’s in Computer Science** at **Odessa Polytechnic National University**
 
 ## 🎨 Hobbies
 

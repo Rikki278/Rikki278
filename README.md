@@ -1,10 +1,8 @@
 <div align="center">
+<img src="https://github.com/user-attachments/assets/e013afb8-e347-424f-8f91-293862da3e5e" alt="github bg" width="100%"/>
   
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sviatoslav Borovyk
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC85E7&center=true&vCenter=true&width=600&lines=Cross-Platform+Mobile+Architect+%F0%9F%93%B1;Backend+Systems+Engineer+%F0%9F%92%BB;Native+Mobile+Developer+%F0%9F%93%B2;Full-Stack+Problem+Solver+%F0%9F%8E%AF;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/e013afb8-e347-424f-8f91-293862da3e5e" alt="github bg" width="100%"/>
 
 </div>
 

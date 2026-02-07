@@ -1,49 +1,141 @@
-<img width="2560" height="417" alt="github bg" src="https://github.com/user-attachments/assets/e013afb8-e347-424f-8f91-293862da3e5e" />
-
-----------------------------------------
-
-📱 I’m a **Flutter Developer**, building cross-platform mobile applications with modern UI/UX and clean architecture.  
-💻 With a strong background as a **Java Backend Developer**, I have experience in **Spring Framework**, databases, and scalable system design.  
-📲 Also experienced in **Android (Kotlin)**, combining native and cross-platform expertise. 
-
-<div align="center">  
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rikki278&show_icons=true&count_private=true&hide_border=true&title_color=ec85e7&icon_color=ffffff&text_color=ec85e7&theme=transparent" alt="rikki278 github stats" /> 
+<div align="center">
   
-  <img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" alt="gitAni" width="300"/>
-  
-  <img width="26%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikki278&layout=compact&hide_border=true&title_color=ec85e7&text_color=ec85e7&theme=transparent" />
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sviatoslav Borovyk
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC85E7&center=true&vCenter=true&width=600&lines=Cross-Platform+Mobile+Architect+%F0%9F%93%B1;Backend+Systems+Engineer+%F0%9F%92%BB;Native+Mobile+Developer+%F0%9F%93%B2;Full-Stack+Problem+Solver+%F0%9F%8E%AF;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/e013afb8-e347-424f-8f91-293862da3e5e" alt="github bg" width="100%"/>
+
 </div>
 
-### 🧰 Languages and Tools
+### 🚀 About Me
 
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="Hubernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
-<img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<br />
+<div align="center">
+<img alt="Coding" width="600" src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376">
+</div>
 
-<!-- ![gitAni](https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376) -->
+```dart
+class Developer {
+  final String name = "Sviatoslav Borovyk";
+  final List<String> roles = [
+    "Cross-Platform Mobile Architect 📱",
+    "Backend Systems Engineer 💻", 
+    "Native Mobile Developer 📲",
+    "Full-Stack Problem Solver 🎯",
+    "Clean Code Enthusiast ✨"
+  ];
+  
+  Map<String, List<String>> expertise = {
+    "Mobile": ["Flutter", "Dart", "Android", "Kotlin", "Swift"],
+    "Backend": ["Java", "Spring Framework", "Go", "RESTful APIs"],
+    "Database": ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+    "Tools": ["Docker", "Git", "Postman", "Hibernate"]
+  };
+  
+  String currentFocus = "Building scalable cross-platform applications";
+  String passion = "Clean architecture & modern UI/UX";
+  String philosophy = "Code is poetry, bugs are just plot twists";
+}
+```
 
-## 📚 Education
+---
 
-🎓 Completed **Bachelor’s in Computer Science** at **Odessa Polytechnic National University**  
-🎓 Currently pursuing **Master’s in Computer Science** at **Odessa Polytechnic National University**
+## 💻 Tech Stack
 
-## 🎨 Hobbies
+<details open>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br>
 
-I enjoy coding and video editing, combining creativity with technical proficiency.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## 📬 Get in Touch
-- **LinkedIn:** [Sviatoslav Borovyk](https://www.linkedin.com/in/sviatoslav-borovyk-b51599291/)
+</details>
 
+<details open>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+</details>
+
+---
+
+## 🎓 Education
+
+<div align="left">
+
+🎓 **Master's in Computer Science** *(In Progress)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📍 Odessa Polytechnic National University
+
+🎓 **Bachelor's in Computer Science** *(Completed)*  
+&nbsp;&nbsp;&nbsp;&nbsp;📍 Odessa Polytechnic National University
+
+</div>
+
+---
+
+## 🎨 Beyond Code
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pkajBqcTh1b2Mzbm5lMThuM3ZwNGIxZm1manQwaXM3dHIwa3BueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yMg2IFifCT1C/giphy.gif" width="200"/>
+
+**💡 When I'm not coding, you'll find me:**
+
+🎬 **Video Editing** → Creating engaging content & technical tutorials  
+🚀 **Tech Explorer** → Always learning new frameworks and tools  
+🏗️ **Side Projects** → Building cool stuff for fun  
+📚 **Architecture Enthusiast** → Clean code is beautiful code  
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM5NHJnZnZxbjJlNWltaDZiajdyYmQ2bmYydThoYjFnNHlwYzVzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQbVzXQQbGO7C/giphy.gif" width="300"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sviatoslav-borovyk-b51599291/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rikki278)
+
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+
+
+</div>

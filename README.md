@@ -9,7 +9,8 @@
 <td width="35%" style="border: none;" valign="center">
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" width="100%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc0Yno5cW82MndlaDlzbDVmdnBveHN5MGNmZG9iOHVkbDFuMWhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7z6Y18W6Y6KoNRYoIx/giphy.gif" width="100%">
+  
 </div>
 
 </td>
@@ -107,7 +108,10 @@ class Developer {
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pkajBqcTh1b2Mzbm5lMThuM3ZwNGIxZm1manQwaXM3dHIwa3BueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yMg2IFifCT1C/giphy.gif" width="200"/>
+<img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" width="200"/>
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pkajBqcTh1b2Mzbm5lMThuM3ZwNGIxZm1manQwaXM3dHIwa3BueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yMg2IFifCT1C/giphy.gif" width="200"/> -->
+
+
 
 **💡 When I'm not coding, you'll find me:**
 
@@ -117,7 +121,6 @@ class Developer {
 📚 **Architecture Enthusiast** → Clean code is beautiful code  
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM5NHJnZnZxbjJlNWltaDZiajdyYmQ2bmYydThoYjFnNHlwYzVzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gQbVzXQQbGO7C/giphy.gif" width="300"/>
-
 </div>
 
 ---

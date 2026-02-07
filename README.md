@@ -4,17 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC85E7&center=true&vCenter=true&width=600&lines=Cross-Platform+Mobile+Architect+%F0%9F%93%B1;Backend+Systems+Engineer+%F0%9F%92%BB;Native+Mobile+Developer+%F0%9F%93%B2;Full-Stack+Problem+Solver+%F0%9F%8E%AF;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="35%" style="border: none;" valign="center">
 
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc0Yno5cW82MndlaDlzbDVmdnBveHN5MGNmZG9iOHVkbDFuMWhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7z6Y18W6Y6KoNRYoIx/giphy.gif" width="100%">
-  
-</div>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc0Yno5cW82MndlaDlzbDVmdnBveHN5MGNmZG9iOHVkbDFuMWhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7z6Y18W6Y6KoNRYoIx/giphy.gif" width="34%"/>
 
-</td>
-<td width="30%" style="border: none;">
+<img align="right" src="https://media1.tenor.com/m/saF7OqqJkFsAAAAC/darling-in-the-franxx-anime.gif" width="22.5%"/>
 
 ```dart
 class Developer {
@@ -26,18 +19,10 @@ class Developer {
     "Full-Stack Problem Solver 🎯",
     "Clean Code Enthusiast ✨"
   ];
+}
 ```
 
-</td>
-<td width="25%" style="border: none;" valign="center">
-
-<div align="center">
-<img src="https://media1.tenor.com/m/saF7OqqJkFsAAAAC/darling-in-the-franxx-anime.gif" width="100%">
-</div>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
@@ -110,8 +95,6 @@ class Developer {
 
 <img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" width="200"/>
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pkajBqcTh1b2Mzbm5lMThuM3ZwNGIxZm1manQwaXM3dHIwa3BueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yMg2IFifCT1C/giphy.gif" width="200"/> -->
-
-
 
 **💡 When I'm not coding, you'll find me:**
 

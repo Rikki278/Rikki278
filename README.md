@@ -5,9 +5,9 @@
 
 </div>
 
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc0Yno5cW82MndlaDlzbDVmdnBveHN5MGNmZG9iOHVkbDFuMWhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7z6Y18W6Y6KoNRYoIx/giphy.gif" width="34%"/>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc0Yno5cW82MndlaDlzbDVmdnBveHN5MGNmZG9iOHVkbDFuMWhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7z6Y18W6Y6KoNRYoIx/giphy.gif" width="35%"/>
 
-<img align="right" src="https://media1.tenor.com/m/saF7OqqJkFsAAAAC/darling-in-the-franxx-anime.gif" width="22.5%"/>
+<img align="right" src="https://media1.tenor.com/m/saF7OqqJkFsAAAAC/darling-in-the-franxx-anime.gif" width="25"/>
 
 ```dart
 class Developer {

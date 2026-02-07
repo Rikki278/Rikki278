@@ -3,14 +3,17 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC85E7&center=true&vCenter=true&width=600&lines=Cross-Platform+Mobile+Architect+%F0%9F%93%B1;Backend+Systems+Engineer+%F0%9F%92%BB;Native+Mobile+Developer+%F0%9F%93%B2;Full-Stack+Problem+Solver+%F0%9F%8E%AF;Clean+Code+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
-
 </div>
-
-### 🚀 About Me
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="35%" style="border: none;" valign="center">
 
 <div align="center">
-<img alt="Coding" width="600" src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376">
+<img src="https://github.com/user-attachments/assets/36f05045-ca11-42f0-ba02-b46a03603376" width="100%">
 </div>
+
+</td>
+<td width="30%" style="border: none;">
 
 ```dart
 class Developer {
@@ -22,19 +25,18 @@ class Developer {
     "Full-Stack Problem Solver 🎯",
     "Clean Code Enthusiast ✨"
   ];
-  
-  Map<String, List<String>> expertise = {
-    "Mobile": ["Flutter", "Dart", "Android", "Kotlin", "Swift"],
-    "Backend": ["Java", "Spring Framework", "Go", "RESTful APIs"],
-    "Database": ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-    "Tools": ["Docker", "Git", "Postman", "Hibernate"]
-  };
-  
-  String currentFocus = "Building scalable cross-platform applications";
-  String passion = "Clean architecture & modern UI/UX";
-  String philosophy = "Code is poetry, bugs are just plot twists";
-}
 ```
+
+</td>
+<td width="25%" style="border: none;" valign="center">
+
+<div align="center">
+<img src="https://media1.tenor.com/m/saF7OqqJkFsAAAAC/darling-in-the-franxx-anime.gif" width="100%">
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,13 +129,10 @@ class Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sviatoslav-borovyk-b51599291/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rikki278)
 
-
 </div>
-
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
-
 
 </div>

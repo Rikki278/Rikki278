@@ -7,7 +7,6 @@
 I build mobile apps with **Flutter**, **Kotlin** and **Swift**, and the backends behind them with **Java/Spring** and **Go**.
 
 - 🎓 MSc Computer Science, Odesa Polytechnic *(in progress)*
-- 🎬 Video editing and tech tutorials
 
 <br clear="right"/>
 
@@ -21,12 +20,16 @@ I build mobile apps with **Flutter**, **Kotlin** and **Swift**, and the backends
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBC2EB,100:A18CD1&height=2" width="100%"/>
 
-<h3 align="center">🚀 Quests</h3>
+<img src="./assets/hug.gif" width="42%" align="left" alt="anime girls hugging, ascii art"/>
 
-<div align="center">
-<a href="https://github.com/Rikki278/dart-frog-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rikki278&repo=dart-frog-backend&bg_color=00000000&title_color=D16BA5&icon_color=A18CD1&text_color=8b7a99&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Rikki278/ChidoriSpring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rikki278&repo=ChidoriSpring&bg_color=00000000&title_color=D16BA5&icon_color=A18CD1&text_color=8b7a99&hide_border=true" width="48%"/></a>
-</div>
+### 🌙 Beyond code
+
+- 🎬 Video editing & tech tutorials
+- 🚀 Always trying new frameworks and tools
+- 🏗️ Side projects just for fun
+- 📚 Software architecture nerd
+
+<br clear="left"/>
 
 <h3 align="center">📜 Stats</h3>
 
